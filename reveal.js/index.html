@@ -21,20 +21,27 @@
 		link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
 		document.getElementsByTagName('head')[0].appendChild(link);
 	</script>
+	<style>
+		.reveal h2,
+		.reveal h3 {
+			text-transform: none;
+		}
+		.reveal code {
+		    background: #3f3f3f;
+		    padding: 1px 4px;
+		}
+	</style>
 </head>
 
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section>Slide 1
-
-				<aside class="notes">
-					Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes
-					window (hit 's' on your keyboard).
-				</aside>
+			<section data-markdown="/slides/slides.md"  
+         		data-separator="^\r?\n---\r?\n$"  
+				data-separator-vertical="^\r?\nvvv\r?\n$"  
+				data-separator-notes="^Note:"  
+				data-charset="iso-8859-15">
 			</section>
-			<section>Slide 2</section>
-			<section>Slide 3</section>
 		</div>
 	</div>
 
@@ -45,7 +52,9 @@
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
-
+				transition: 'convex',
+				parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg', 			
+				parallaxBackgroundSize: '2100px 900px', 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
