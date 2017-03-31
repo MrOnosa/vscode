@@ -29,7 +29,7 @@
 Presentation by Tyler Palesano  
 [@TPalesano](https://twitter.com/TPalesano)
 
-Note: Press `s`. `esc` to see map. Arrow keys to use slides.
+Note: Press `s`. `esc` to see map. Arrow keys to use slides. Get a PowerShell terminal running for Example 2
 
 ---
 
@@ -97,7 +97,7 @@ Note: Show IntelliSense Open settings.json with >Preferences: Open User Settings
 
 ## Terminals
 
-Use multiple built in terminals within VS Code
+Use multiple terminals within VS Code
 
 Note: Show terminals. Hit plus size. update settings.json and open powershell.
 
@@ -108,13 +108,15 @@ vvv
 
 vvv
 
-## Windows PowerShell
-![PS](./slides/powershell.png)
+## Bash
+![$](./slides/bash.png)
 
 vvv
 
-## Bash
-![$](./slides/bash.png)
+## Windows PowerShell
+![PS](./slides/powershell.png)
+
+Note: Time for Example 2
 
 ---
 
