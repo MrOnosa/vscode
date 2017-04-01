@@ -15,6 +15,6 @@ namespace example3
     public partial class WDGaster : ICombatant
     {
         public string Name { get { return "✌️"; } }
-        public int AT { get { return 10; } }
+        public int AT { get { return System.DateTime.Now.Millisecond; } }
     }
 }

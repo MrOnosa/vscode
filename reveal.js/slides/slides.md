@@ -133,16 +133,31 @@ Note: Using a task to run this presentation. Discuss my confusing with using mul
 
 ---
 
+# Extensions
+
+vvv
+
+![ext](./slides/extensions.png)
+
+Note: C#, Code Runner, Code Spellchecker, Debugger for Chrome, jshint, PowerShell
+
+vvv
+
+* Lightweight Visual Studio experience
+* Breakpoints, IntelliSense, Refactoring, ETC
+
+![CSharp](./slides/c.png)
+
+---
+
 # Debugging
 
 * Out of the box Node.js support
 * Extensions for other stuff
 
+(live demos)
+
 Note: Example 2 & 3
-
----
-
-# Extensions
 
 ---
 

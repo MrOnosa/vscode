@@ -14,7 +14,7 @@ namespace example3
 
     public partial class WDGaster : ICombatant
     {
-        public int HP { get; set; }
-        public int DF { get { return 10; } }
+        public int HP { get { return 1; } set {} }
+        public int DF { get { return System.DateTime.Now.DayOfYear; } }
     }
 }

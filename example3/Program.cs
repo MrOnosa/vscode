@@ -1,6 +1,12 @@
-﻿using System;
+﻿/************
+* Example .net program. In Visual Studio Code, go to File -> Open Folder... and select vscode/Example3
+* In the terminal, run "dotnet restore"
+* With the C# extention installed, you can place breakpoints and use the debugger tool.
+************/
+
+using System;
 namespace example3
-{
+{    
     class Program
     {
         static Random FUN = new Random();
