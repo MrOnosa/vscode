@@ -29,7 +29,7 @@
 Presentation by Tyler Palesano  
 [@TPalesano](https://twitter.com/TPalesano)
 
-Note: Press `s`. `esc` to see map. Arrow keys to use slides. Get a PowerShell terminal running for Example 2
+Note: Press `s`. `esc` to see map. Arrow keys to use slides. Get a PowerShell terminal running for Example 1
 
 ---
 
@@ -59,7 +59,7 @@ Note: Built in terminals, Customizable Tasks, Debugging, Built in git support, E
 
 | Notepad++ | VS Code | VS2017 |
 | :--- | :--- | :--- |
-| Single Simple file | - Directory <br> - Scripting files <br> - Markdown | Entire solution |
+| Single Simple file | - Directory <br> - Scripting files <br> - Unity | Entire solution |
 
 Note: Talk about Directory. Scripting files meaning JavaScript or PowerShell. Discus why I used VS Code to begin with (Drawing Tool).
 ---
@@ -116,16 +116,17 @@ vvv
 ## Windows PowerShell
 ![PS](./slides/powershell.png)
 
-Note: Time for Example 2
+Note: Time for Example 1
 
 ---
 
 ## Tasks
 
 * Runs commands
-* Can run batch scripts
+	* Grunt, dotnet, batch, whatever
+* Assignable to keyboard shortcuts
 * Can be set as a preLaunchTask action
-	* Grunt, gulp, whatever
+* Currently running this presentation
 * Not as nice as I'd like
 
 Note: Using a task to run this presentation. Discuss my confusing with using multiple tasks that rely on different shells.
@@ -136,6 +137,12 @@ Note: Using a task to run this presentation. Discuss my confusing with using mul
 
 * Out of the box Node.js support
 * Extensions for other stuff
+
+Note: Example 2 & 3
+
+---
+
+# Extensions
 
 ---
 

@@ -11,3 +11,5 @@ reveal.js/node_modules/
 reveal.js/.sass-cache
 reveal.js/css/reveal.min.css
 reveal.js/js/reveal.min.js
+example3/obj/*
+example3/bin/*
