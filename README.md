@@ -1,8 +1,9 @@
 # vscode
 [Visual Studio Code](https://code.visualstudio.com/) presentation originally for the OKC# user group.
 
-
 [Slides](https://cdn.rawgit.com/MrOnosa/vscode/master/reveal.js/index.html#/)
+
+[Recording](https://www.twitch.tv/videos/133190313) (Starts 4 minutes in)
 
 ## To the cloners
 
@@ -18,3 +19,5 @@ To get `reveal.js` working:
     - Press `ctrl`+`shift`+`p` and type `Tasks: Run Task` and press enter
     - Select `serve VS Code Presentation`
 * (Optional) Press `s` to see the speaker notes.
+
+See example3/Program.cs for more instructions to run the C# example
