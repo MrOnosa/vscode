@@ -37,6 +37,7 @@ Note: Built in terminals, Customizable Tasks, Debugging, Built in git support, E
 | Single Simple file | - Directory <br> - Scripting files <br> - Unity | Entire solution |
 
 Note: Talk about Directory. Scripting files meaning JavaScript or PowerShell. Discus why I used VS Code to begin with (Drawing Tool).
+
 ---
 
 ## CUSTOMIZABLE
