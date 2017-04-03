@@ -1,33 +1,8 @@
-			 <!--Talking points!
-			* Introduction
-			* Out of the box, just a text editor
-			* Rediculously customizable (replace mouse with stupid image)
-			* Built in terminals 
-			* Tasks
-			* Debugging
-			* Built in git support
-			* Extensions
-			** Chrome debugger
-			** c# stuff
-			** Code Runner
-			** Powershell
-			** JSHint
-			** Code Spellchecker
-			* Markdown preview
-      <section>
-	<pre><code data-trim data-noescape>
-(def lazy-fib
-  (concat
-   [0 1]
-   <mark>((fn rfib [a b]</mark>
-        (lazy-cons (+ a b) (rfib b (+ a b)))) 0 1)))
-	</code></pre>
-</section>
-			-->
-
 # Visual Studio Code
 Presentation by Tyler Palesano  
 [@TPalesano](https://twitter.com/TPalesano)
+
+[github.com/MrOnosa/vscode](https://github.com/MrOnosa/vscode)
 
 Note: Press `s`. `esc` to see map. Arrow keys to use slides. Get a PowerShell terminal running for Example 1
 
@@ -104,17 +79,17 @@ Note: Show terminals. Hit plus size. update settings.json and open powershell.
 vvv
 
 ## Command Prompt
-![CMD](./slides/cmd.png)
+![CMD](slides/cmd.png)
 
 vvv
 
 ## Bash
-![$](./slides/bash.png)
+![$](slides/bash.png)
 
 vvv
 
 ## Windows PowerShell
-![PS](./slides/powershell.png)
+![PS](slides/powershell.png)
 
 Note: Time for Example 1
 
@@ -137,7 +112,7 @@ Note: Using a task to run this presentation. Discuss my confusing with using mul
 
 vvv
 
-![ext](./slides/extensions.png)
+![ext](slides/extensions.png)
 
 Note: C#, Code Runner, Code Spellchecker, Debugger for Chrome, jshint, PowerShell
 
@@ -146,7 +121,7 @@ vvv
 * Lightweight Visual Studio experience
 * Breakpoints, IntelliSense, Refactoring, ETC
 
-![CSharp](./slides/c.png)
+![CSharp](slides/c.png)
 
 ---
 
