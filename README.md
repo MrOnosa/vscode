@@ -21,3 +21,5 @@ To get `reveal.js` working:
 * (Optional) Press `s` to see the speaker notes.
 
 See example3/Program.cs for more instructions to run the C# example
+
+> And here is an example of a quote in Markdown.
