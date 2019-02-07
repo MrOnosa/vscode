@@ -1,7 +1,7 @@
 # vscode
 [Visual Studio Code](https://code.visualstudio.com/) presentation originally for the OKC# user group.
 
-[Slides](https://cdn.rawgit.com/MrOnosa/vscode/master/reveal.js/index.html#/)
+[Slides](https://mronosa.github.io//vscode/reveal.js/index.html)
 
 [Recording](https://www.twitch.tv/videos/133190313) (Starts 4 minutes in)
 
